@@ -26,5 +26,5 @@ const MARS2 = new Discord.Client();
 
 
 //////
-MARS.login(“”);
-
+MARS.login(“ODIxMTMyMjQ5NjkyNzY2MjA4.YE_RIA.eS_fxBnAIHczbuVBNmmyR_XAGcA”);
+MARS2.login(“”);
