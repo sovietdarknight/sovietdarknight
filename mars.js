@@ -21,3 +21,10 @@ const cmd = require("node-cmd");
 const MARS = new Discord.Client();
 const MARS2 = new Discord.Client();
 
+
+
+
+
+//////
+MARS.login(“”);
+
